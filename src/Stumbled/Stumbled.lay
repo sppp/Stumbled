@@ -1,0 +1,5 @@
+LAYOUT(StumbledLayout, 396, 32)
+	ITEM(EditIntSpin, start, HSizePosZ(4, 200).TopPosZ(4, 24))
+	ITEM(Button, stumble, SetLabel(t_("Stumble")).LeftPosZ(200, 192).TopPosZ(4, 24))
+END_LAYOUT
+
